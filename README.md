@@ -5,6 +5,12 @@
 
 A high-performance implementation using JSI (JavaScript Interface) that enables fetching the entire contact list with zero serialization overhead, bypassing the legacy bridge for maximum speed.
 
+## Demos
+
+| iOS Demo | Android Demo |
+|---|---|
+| ![iOS Demo](./assets/ios-demo.gif) | ![Android Demo](./assets/android-demo.gif) |
+
 
 ## Compatibility & Requirements
 
